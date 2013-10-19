@@ -1,0 +1,16 @@
+{
+  "name": "webkit-dragdrop",
+  "version": "0.1",
+  "homepage": "https://github.com/JakubMrozek/webkit-dragdrop",
+  "authors": [
+    "Tommaso Buvoli (http://www.tommasobuvoli.com)",
+    "Jakub Mrozek <jakub.mrozek@gmail.com>"
+  ],
+  "description": "Drag & drop for mobile and tablets",
+  "main": "webkitdragdrop.js",
+  "keywords": [
+    "drag",
+    "drop"
+  ],
+  "license": "MIT"
+}
